@@ -26,16 +26,36 @@ __Results__
 
 Here are our results and observations:
 
-Below are the optimum parameters for our model that we obtained through hyperparameter tuning.
+Below are the optimum parameters for our model that we obtained through hyperparameter tuning:
 
 ![Image 5](https://github.com/kierengill/Deep-Learning-Project/blob/main/readme_images/5.png)
 
-
+Here is an image demonstrating how our ROI cropping works:
 
 ![Image 1](https://github.com/kierengill/Deep-Learning-Project/blob/main/readme_images/1.png)
+
+This is a plot for our training and validation loss:
+
 ![Image 2](https://github.com/kierengill/Deep-Learning-Project/blob/main/readme_images/2.png)
+
+This is the structure of our highest performing model:
+
 ![Image 3](https://github.com/kierengill/Deep-Learning-Project/blob/main/readme_images/3.png)
+
+The next few images will demonstrate what our model "looks" at to classify the images.
+
+This is an example image that one might input into the model:
+
 ![Image 4](https://github.com/kierengill/Deep-Learning-Project/blob/main/readme_images/4.png)
 
+This heatmap represents the pixels in the image that is relevant to the model when making its classification decision:
+
 ![Image 6](https://github.com/kierengill/Deep-Learning-Project/blob/main/readme_images/6.png)
+
+This superimposes the heatmap over the original image, so you can clearly see that the model is detecting the tumor.
+
 ![Image 7](https://github.com/kierengill/Deep-Learning-Project/blob/main/readme_images/7.png)
+
+Here are our final accuracy metrics for our highest performing model:
+
+
