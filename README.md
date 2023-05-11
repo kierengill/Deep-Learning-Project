@@ -20,7 +20,7 @@ This repo has 5 files:
 
 __Running Code__
 
-When running the files, be sure to run them in the order as listed above. To run the files, just run the notebooks.
+When running the files, be sure to run them in the order as listed above. To run the files, just run the notebooks. You may need to change the file paths in the code to match your system.
 
 __Results__
 
