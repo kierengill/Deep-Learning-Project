@@ -18,7 +18,7 @@ This repo has 5 files:
 - hyperparameter-tuning.ipynb: This notebook contains our model hyperparameter tuning.
 - grad-notebook.ipynb: This notebook contains the CAM-grad code, which helps with the interpretability of the model.
 
+When running the files, be sure to run them in the order as demonstrated above. Some example commands to run the files are as follows:
 
 
-Example commands to execute the code         
-Results (including charts/tables) and your observations  
+Here are our results and observations:
