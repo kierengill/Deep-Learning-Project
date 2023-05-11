@@ -18,8 +18,24 @@ This repo has 5 files:
 - hyperparameter-tuning.ipynb: This notebook contains our model hyperparameter tuning.
 - grad-notebook.ipynb: This notebook contains the CAM-grad code, which helps with the interpretability of the model.
 
-When running the files, be sure to run them in the order as demonstrated above. Some example commands to run the files are as follows:
+__Running Code__
 
+When running the files, be sure to run them in the order as listed above. To run the files, just run the notebooks.
+
+__Results__
 
 Here are our results and observations:
+
+Below are the optimum parameters for our model that we obtained through hyperparameter tuning.
+
+![Image 5](https://github.com/kierengill/Deep-Learning-Project/blob/main/readme_images/5.png)
+
+
+
 ![Image 1](https://github.com/kierengill/Deep-Learning-Project/blob/main/readme_images/1.png)
+![Image 2](https://github.com/kierengill/Deep-Learning-Project/blob/main/readme_images/2.png)
+![Image 3](https://github.com/kierengill/Deep-Learning-Project/blob/main/readme_images/3.png)
+![Image 4](https://github.com/kierengill/Deep-Learning-Project/blob/main/readme_images/4.png)
+
+![Image 6](https://github.com/kierengill/Deep-Learning-Project/blob/main/readme_images/6.png)
+![Image 7](https://github.com/kierengill/Deep-Learning-Project/blob/main/readme_images/7.png)
