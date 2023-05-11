@@ -58,4 +58,8 @@ This superimposes the heatmap over the original image, so you can clearly see th
 
 Here are our final accuracy metrics for our highest performing model:
 
+Final auROC:  0.7813942807683052
 
+Final auPR:  0.22049217230240403
+
+Final fbeta:  0.3093812375249501
