@@ -22,3 +22,4 @@ When running the files, be sure to run them in the order as demonstrated above. 
 
 
 Here are our results and observations:
+![Image 1]([https://example.com/openai_logo.png](https://github.com/kierengill/Deep-Learning-Project/blob/main/readme_images/1.png))
