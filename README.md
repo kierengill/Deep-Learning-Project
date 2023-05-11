@@ -10,12 +10,15 @@ Solution Approach: Our approach combines transfer learning, region of interest (
 Value/Benefit: The developed model has the potential to significantly enhance breast cancer detection, reducing false negatives, and ultimately leading to more effective treatment and higher survival rates.
 
 
+__Code Structure__
+
+This repo has 5 files:
+- preprocessing.ipynb: This notebook contains the preprocessing steps that we used for before training our model.
+- train-yolo-and-extract-roi.ipynb: This notebook contains our ROI cropping and model training.
+- hyperparameter-tuning.ipynb: This notebook contains our model hyperparameter tuning.
+- grad-notebook.ipynb: This notebook contains the CAM-grad code, which helps with the interpretability of the model.
 
 
 
-README: README should have          
-
-A description of the project
-A description of the repository and code structure
 Example commands to execute the code         
 Results (including charts/tables) and your observations  
